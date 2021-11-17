@@ -22,7 +22,7 @@ body{
 }
 .page header{
     position: relative;
-    background-color: #689ff5;
+    background-color: #5c7bd9;
     color: #ffffff;
     padding: 10px 50px;
 }
@@ -38,4 +38,15 @@ body{
     background-color: #fff;
     flex-grow: 1;
     padding: 10px 50px;
+}
+#echarts{
+    display: inline;
+}
+.content-skills .skills-description {
+    display: inline;
+}
+.content-skills .skills-description li{
+    padding: 6px;
+    list-style: none;
+    width: 500px;
 }
