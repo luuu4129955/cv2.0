@@ -1,18 +1,17 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-.contact-info li{
+.contact-info li {
     display: inline;
     list-style: none;
 }
-body{
+body {
     background-color: #525659;
-    padding:60px ;
+    padding: 60px;
 }
-
-.page{
+.page {
     width: 1024px;
     min-height: 1440px;
     margin-left: auto;
@@ -20,33 +19,59 @@ body{
     display: flex;
     flex-direction: column;
 }
-.page header{
+h1 {
+    font-size: 48px;
+    letter-spacing: 5px;
+}
+.page .header {
     position: relative;
     background-color: #5c7bd9;
     color: #ffffff;
     padding: 10px 50px;
 }
-.page img{
+.page img {
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    position: absolute;
-    top: 0;
-    right: 0;
 }
-.page .content{
+.page .content {
     background-color: #fff;
     flex-grow: 1;
     padding: 10px 50px;
 }
-#echarts{
+.header-job {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-job h2 {
+    padding-top: 10px;
+    padding-right: 10px;
+}
+#echarts {
     display: inline;
 }
-.content-skills .skills-description {
-    display: inline;
+.content-skills {
+    display: flex;
+    justify-content: space-between;
 }
-.content-skills .skills-description li{
+.content-skills .skills-description li {
     padding: 6px;
     list-style: none;
     width: 500px;
+}
+h3 ,span{
+    padding-top: 16px;
+}
+.content-projects, .content-skills, .content-demos, .link, .edu {
+    margin-top: 16px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    color: #5c7bd9;
 }
