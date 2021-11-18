@@ -3,9 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
-.contact-info li {
+.edu-info,.contact-info{
+    padding-top: 10px;
+}
+.contact-info li,.edu-info li {
     display: inline;
+}
+li {
     list-style: none;
+}
+p{
+    margin-top:8px;
+    color: #6e6e6e;
 }
 body {
     background-color: #525659;
@@ -29,6 +38,12 @@ h1 {
     color: #ffffff;
     padding: 10px 50px;
 }
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
 .page img {
     width: 60px;
     height: 60px;
@@ -41,7 +56,7 @@ h1 {
 }
 .header-job {
     position: absolute;
-    right: 10px;
+    right: 50px;
     top: 20px;
     display: flex;
     justify-content: space-between;
@@ -49,6 +64,9 @@ h1 {
 .header-job h2 {
     padding-top: 10px;
     padding-right: 10px;
+}
+.content h3{
+    color: #333333;
 }
 #echarts {
     display: inline;
@@ -62,16 +80,16 @@ h1 {
     list-style: none;
     width: 500px;
 }
-h3 ,span{
+h3, span {
     padding-top: 16px;
 }
 .content-projects, .content-skills, .content-demos, .link, .edu {
     margin-top: 16px;
 }
-header{
+header {
     display: flex;
     justify-content: space-between;
 }
-a{
+a {
     color: #5c7bd9;
 }
