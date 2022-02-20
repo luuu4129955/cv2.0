@@ -3,34 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
-.edu-info,
-.skill-info,
-.contact-info {
-    padding-bottom: 10px;
-    font-size: 18px;
+.edu-info,.contact-info{
+    padding-top: 10px;
 }
-.contact-info li,
-.skill-info li,
-.edu-info li {
+.contact-info li,.edu-info li {
     display: inline;
 }
 li {
     list-style: none;
-    font-size: 18px;
 }
-p {
-    margin-left: 48px;
-    margin-bottom: 8px;
-    font-style: italic;
-    padding-top: 4px;
-    padding-bottom: 8px;
-    box-shadow: 4px 4px 4px 1px rgba(116, 116, 122, 0.2);
+p{
+    margin-top:8px;
+    color: #6e6e6e;
 }
 body {
     background-color: #525659;
-    font-weight: 500;
-    letter-spacing: 1px;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 60px;
 }
 .page {
     width: 1024px;
@@ -40,49 +28,23 @@ body {
     display: flex;
     flex-direction: column;
 }
-.header {
-    font-weight: 600;
-    font-family: "STKaiti";
-}
-.content h2,
-h3 {
-    margin-top: 10px;
-    color: #5c7bd9;
-}
-h4 {
-    line-height: 3;
-}
 h1 {
     font-size: 48px;
     letter-spacing: 5px;
-    font-weight: normal;
-}
-.highlight {
-    color: #d9b55b;
-    font-weight: 500;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .page .header {
     position: relative;
     background-color: #5c7bd9;
     color: #ffffff;
-    padding: 10px 120px;
+    padding: 10px 50px;
 }
 .icon {
-    width: 1em;
-    height: 1em;
+    width: 1em; height: 1em;
     vertical-align: -0.15em;
     fill: currentColor;
     overflow: hidden;
 }
-.qrcode {
-    width: 84px;
-    height: 84px;
-    position: absolute;
-    bottom: 20px;
-    right: 120px;
-}
-.header-job img {
+.page img {
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -90,58 +52,39 @@ h1 {
 .page .content {
     background-color: #fff;
     flex-grow: 1;
-    padding: 10px 120px;
+    padding: 10px 50px;
 }
 .header-job {
+    position: absolute;
+    right: 50px;
+    top: 20px;
     display: flex;
     justify-content: space-between;
-    padding-bottom: 10px;
-}
-.header-job .no-wrap {
-    display: flex;
-    flex-direction: row;
 }
 .header-job h2 {
     padding-top: 10px;
     padding-right: 10px;
 }
-.content-project .project-description li {
-    padding-left: 38px;
-    line-height: 1.8;
-}
-.content-project p {
-    margin-left: 38px;
+.content h3{
+    color: #333333;
 }
 #echarts {
     display: inline;
 }
 .content-skills {
-    padding-left: 50px;
     display: flex;
     justify-content: space-between;
 }
 .content-skills .skills-description li {
-    line-height: 1.8;
+    padding: 6px;
     list-style: none;
+    width: 500px;
 }
-h3,
-span {
+h3, span {
     padding-top: 16px;
 }
-.content-projects,
-.content-skills,
-.content-demos,
-.link,
-.edu {
+.content-projects, .content-skills, .content-demos, .link, .edu {
     margin-top: 16px;
-}
-.content-demos li, .myself li {
-    line-height: 1.8;
-    padding-left: 40px;
-}
-.myself li {
-    line-height: 1.8;
-    padding-left: 46px;
 }
 header {
     display: flex;
@@ -149,18 +92,4 @@ header {
 }
 a {
     color: #5c7bd9;
-    text-decoration: none;
-}
-.mobile {display: none}
-@media (max-width: 500px) {
-    .page {width: auto;height: auto;}
-    .page .header{padding: 0}
-    .page .header-job {padding: 10px 36px;flex-direction: column}
-    .page .header-job h1{font-size: 36px}
-    .header {position: fixed;}
-    .pc {display: none;}
-    .mobile {display: block;}
-    .mobile p{padding-left: 36px;margin: 0;box-shadow: none;}
-    .qrcode{right: 36px;}
-    .page .content{padding: 10px 36px}
 }
