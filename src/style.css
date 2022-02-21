@@ -105,7 +105,13 @@ h1 {
     padding-top: 10px;
     padding-right: 10px;
 }
-.content-project .project-description li {
+.company{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    line-height: 2;
+}
+.content-project .project-description li, .company-description li {
     padding-left: 38px;
     line-height: 1.8;
 }
@@ -163,4 +169,5 @@ a {
     .mobile p{padding-left: 36px;margin: 0;box-shadow: none;}
     .qrcode{right: 36px;}
     .page .content{padding: 10px 36px}
+    .company{flex-wrap: wrap}
 }
