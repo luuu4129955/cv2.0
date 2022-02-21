@@ -163,7 +163,7 @@ a {
 .mobile {display: none}
 @media (max-width: 500px) {
     .page {width: auto;height: auto;}
-    .page .header{padding: 0}
+    .page .header{padding: 0;min-height: 432px}
     .page .header-job {padding: 10px 36px;flex-direction: column}
     .page .header-job h1{font-size: 36px}
     .header {position: fixed;}
