@@ -1,4 +1,4 @@
-6482
+6494
 72F:\2021Fang\StudyCode\cv-2.0\node_modules\@swc\helpers\lib\_construct.js132894703041310000 0
 56F:\2021Fang\StudyCode\cv-2.0\node_modules\csso\lib\clean132894710435870508 1
 49F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts132894711064797604 1
@@ -10,6 +10,12 @@
 123F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\foo.js132894703040020000 0
 72F:\2021Fang\StudyCode\cv-2.0\node_modules\yaml\browser\dist\parse-cst.js132791020684070000 0
 61F:\2021Fang\StudyCode\cv-2.0\node_modules\dotenv\package.json132894702972880000 0
+76F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\core\test\fixtures\plugins132894710361257237 1
+66F:\2021Fang\StudyCode\cv-2.0\node_modules\abortcontroller-polyfill132894710362382490 1
+93F:\2021Fang\StudyCode\cv-2.0\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map132863811695520000 0
+70F:\2021Fang\StudyCode\cv-2.0\node_modules\.bin\node-gyp-build-test.cmd132894711094621063 0
+73F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lz4\lib\lz4.c132894703001620000 0
+33F:\2021Fang\StudyCode\cv-2.0\dist132899058819865605 1
 76F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\core\lib\PackagerRunner.js132894702964290000 0
 66F:\2021Fang\StudyCode\cv-2.0\node_modules\@swc\helpers\lib\_jsx.js132894703041310000 0
 79F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\grid\install.js132894702470210000 0
@@ -24,7 +30,7 @@
 61F:\2021Fang\StudyCode\cv-2.0\node_modules\lodash.uniq\LICENSE132762753515250000 0
 61F:\2021Fang\StudyCode\cv-2.0\node_modules\type-fest\base.d.ts132848098508500000 0
 79F:\2021Fang\StudyCode\cv-2.0\node_modules\@swc\helpers\src\_set_prototype_of.js132894703041310000 0
-43F:\2021Fang\StudyCode\cv-2.0\src\index.html132894727734141246 0
+43F:\2021Fang\StudyCode\cv-2.0\src\index.html132899058812054094 0
 61F:\2021Fang\StudyCode\cv-2.0\node_modules\nan\include_dirs.js132762753473300000 0
 56F:\2021Fang\StudyCode\cv-2.0\node_modules\dom-serializer132894710365061608 1
 77F:\2021Fang\StudyCode\cv-2.0\node_modules\stylehacks\src\plugins\bodyEmpty.js132894703074580000 0
@@ -37,7 +43,7 @@
 79F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\svg\SVGPathRebuilder.d.ts132894702470150000 0
 74F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\transformer-html\LICENSE132894702999570000 0
 73F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\build\prepareNightly.js132894702470150000 0
-34F:\2021Fang\StudyCode\cv-2.0\.idea132894728573571848 1
+34F:\2021Fang\StudyCode\cv-2.0\.idea132899058812531950 1
 55F:\2021Fang\StudyCode\cv-2.0\node_modules\utility-types132894710372779730 1
 94F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\component\axisPointer\install.d.ts132894702470210000 0
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\chart\graph\simpleLayoutHelper.js132894702470210000 0
@@ -59,7 +65,7 @@
 75F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\src\tool\transformPath.ts132894702470150000 0
 54F:\2021Fang\StudyCode\cv-2.0\node_modules\yaml\LICENSE132791020684070000 0
 66F:\2021Fang\StudyCode\cv-2.0\node_modules\json-source-map\index.js132894702980750000 0
-32F:\2021Fang\StudyCode\cv-2.0\src132894727734141246 1
+32F:\2021Fang\StudyCode\cv-2.0\src132899058812064073 1
 72F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\preprocessor132894711077281874 1
 90F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\font-unicode-range.js132894703008590000 0
 84F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\svg-legacy\helper\Definable.js132894702470150000 0
@@ -72,18 +78,7 @@
 76F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\chart\radar\install.js132894702470210000 0
 99F:\2021Fang\StudyCode\cv-2.0\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\050-modules.md132894703022970000 0
 99F:\2021Fang\StudyCode\cv-2.0\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi72.musl.node132894703023220000 0
-36F:\2021Fang\StudyCode\cv-2.0\src\img132894726518199048 1
-64F:\2021Fang\StudyCode\cv-2.0\node_modules\color-convert\index.js132791020685260000 0
-64F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\Handler.js132894702470150000 0
-67F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\utils\src\blob.js132894702968710000 0
-80F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\coord\single\SingleAxis.js132894702470210000 0
-92F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers132894710437777155 1
-85F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\web-animation.js132894703008590000 0
-73F:\2021Fang\StudyCode\cv-2.0\node_modules\weak-lru-cache\rollup.config.js132894703042150000 0
-64F:\2021Fang\StudyCode\cv-2.0\node_modules\mdn-data\l10n\css.json132762753506490000 0
-40F:\2021Fang\StudyCode\cv-2.0\src\main.js132816208525446134 0
-85F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\brush\preprocessor.js132894702470210000 0
-65F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\config.d.ts132894702470150000 0
+36F:\2021Fang\StudyCode\cv-2.0\src\img132894821407515770 1
 69F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\package-manager\lib132894710384816159 1
 70F:\2021Fang\StudyCode\cv-2.0\node_modules\csso\lib\clean\WhiteSpace.js132762753395480000 0
 53F:\2021Fang\StudyCode\cv-2.0\node_modules\htmlparser2132894710363751514 1
@@ -103,7 +98,7 @@
 84F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\preprocessor\backwardCompat.js132894702470210000 0
 51F:\2021Fang\StudyCode\cv-2.0\node_modules\@trysound132894710348580875 1
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\core\src\public\MutableBundleGraph.js132894702964290000 0
-42F:\2021Fang\StudyCode\cv-2.0\src\style.css132894727500284741 0
+42F:\2021Fang\StudyCode\cv-2.0\src\style.css132899057658853661 0
 63F:\2021Fang\StudyCode\cv-2.0\node_modules\postcss\lib\rule.d.ts132894703024180000 0
 102F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\chart\effectScatter\EffectScatterView.d.ts132894702470210000 0
 65F:\2021Fang\StudyCode\cv-2.0\node_modules\stylehacks\node_modules132894711094022716 1
@@ -111,6 +106,7 @@
 67F:\2021Fang\StudyCode\cv-2.0\node_modules\postcss-minify-params\src132894710422696815 1
 74F:\2021Fang\StudyCode\cv-2.0\node_modules\entities\lib\decode_codepoint.js132894703056990000 0
 64F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\svg-legacy132894711072513268 1
+47F:\2021Fang\StudyCode\cv-2.0\src\img\WeChat.jpg132894821407515770 0
 57F:\2021Fang\StudyCode\cv-2.0\node_modules\.yarn-integrity132894711095129707 0
 66F:\2021Fang\StudyCode\cv-2.0\node_modules\stylehacks\src\exists.js132894703074580000 0
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\@swc\helpers\src\_async_generator_delegate.js132894703041310000 0
@@ -145,14 +141,11 @@
 81F:\2021Fang\StudyCode\cv-2.0\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts132848098441040000 0
 46F:\2021Fang\StudyCode\cv-2.0\node_modules\@swc132894710348580875 1
 93F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\data\helper\createDimensions.d.ts132894702470210000 0
-80F:\2021Fang\StudyCode\cv-2.0\node_modules\postcss-selector-parser\dist\parser.js132894703074500000 0
-48F:\2021Fang\StudyCode\cv-2.0\node_modules\@types132894710348580875 1
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\marker\MarkLineModel.js132894702470210000 0
 73F:\2021Fang\StudyCode\cv-2.0\node_modules\css-select\lib\compile.d.ts.map132863811695520000 0
 71F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\contain\text.d.ts132894702470150000 0
-76F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\core\test\fixtures\plugins132894710361257237 1
-66F:\2021Fang\StudyCode\cv-2.0\node_modules\abortcontroller-polyfill132894710362382490 1
-93F:\2021Fang\StudyCode\cv-2.0\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map132863811695520000 0
+80F:\2021Fang\StudyCode\cv-2.0\node_modules\postcss-selector-parser\dist\parser.js132894703074500000 0
+48F:\2021Fang\StudyCode\cv-2.0\node_modules\@types132894710348580875 1
 91F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js132894702966620000 0
 53F:\2021Fang\StudyCode\cv-2.0\node_modules\ansi-styles132894710362444224 1
 68F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\core\vector.js132894702470150000 0
@@ -223,13 +216,6 @@
 97F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\chart\graph\circularLayoutHelper.d.ts132894702470210000 0
 66F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\extension.js132894702470210000 0
 76F:\2021Fang\StudyCode\cv-2.0\node_modules\type-fest\source\set-required.d.ts132848098508500000 0
-85F:\2021Fang\StudyCode\cv-2.0\node_modules\terser\node_modules\source-map\package.json132790098577900000 0
-78F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\graphic\shape\Heart.d.ts132894702470150000 0
-75F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\optimizer-cssnano\LICENSE132894702982310000 0
-49F:\2021Fang\StudyCode\cv-2.0\node_modules\is-json132894710363958255 1
-71F:\2021Fang\StudyCode\cv-2.0\node_modules\csso\lib\restructure\utils.js132762753395480000 0
-79F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\aria\install.js132894702470210000 0
-77F:\2021Fang\StudyCode\cv-2.0\node_modules\svgo\plugins\cleanupListOfValues.js132848098578560000 0
 90F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\svg-legacy\helper\GradientManager.js132894702470150000 0
 72F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\src\contain\polygon.ts132894702470150000 0
 55F:\2021Fang\StudyCode\cv-2.0\node_modules\color-convert132894710362644267 1
@@ -281,13 +267,13 @@
 82F:\2021Fang\StudyCode\cv-2.0\node_modules\type-fest\source\fixed-length-array.d.ts132848098508500000 0
 50F:\2021Fang\StudyCode\cv-2.0\node_modules\css-what132894710363043198 1
 76F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\contain\quadratic.d.ts132894702470150000 0
-71F:\2021Fang\StudyCode\cv-2.0\node_modules\posthtml-render\dist\index.js132894703038440000 0
-68F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\graph\package.json132894702971440000 0
-84F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\rel-noopener.js132894703008590000 0
-70F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\src\canvas\canvas.ts132894702470150000 0
 70F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\build\source-release132894711066637660 1
 80F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\graphic\shape\Droplet.d.ts132894702470150000 0
 64F:\2021Fang\StudyCode\cv-2.0\node_modules\cssnano-preset-default132894710363053178 1
+68F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\graph\package.json132894702971440000 0
+84F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\rel-noopener.js132894703008590000 0
+70F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\src\canvas\canvas.ts132894702470150000 0
+71F:\2021Fang\StudyCode\cv-2.0\node_modules\posthtml-render\dist\index.js132894703038440000 0
 92F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\css-text-orientation.js132894703008590000 0
 64F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\src\Handler.ts132894702470150000 0
 62F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\src\lmdb-js.cpp132894703001620000 0
@@ -346,6 +332,13 @@
 50F:\2021Fang\StudyCode\cv-2.0\node_modules\htmlnano132894711089030004 1
 86F:\2021Fang\StudyCode\cv-2.0\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts132863811695520000 0
 68F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\i18n\langPL-obj.js132894702470210000 0
+85F:\2021Fang\StudyCode\cv-2.0\node_modules\terser\node_modules\source-map\package.json132790098577900000 0
+78F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\graphic\shape\Heart.d.ts132894702470150000 0
+75F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\optimizer-cssnano\LICENSE132894702982310000 0
+49F:\2021Fang\StudyCode\cv-2.0\node_modules\is-json132894710363958255 1
+71F:\2021Fang\StudyCode\cv-2.0\node_modules\csso\lib\restructure\utils.js132762753395480000 0
+79F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\aria\install.js132894702470210000 0
+77F:\2021Fang\StudyCode\cv-2.0\node_modules\svgo\plugins\cleanupListOfValues.js132848098578560000 0
 86F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\toolbox\ToolboxView.js132894702470210000 0
 73F:\2021Fang\StudyCode\cv-2.0\node_modules\@swc\helpers\src\_instanceof.js132894703041310000 0
 51F:\2021Fang\StudyCode\cv-2.0\node_modules\js-tokens132894710363907727 1
@@ -741,11 +734,11 @@
 85F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\readonly-attr.js132894703008590000 0
 75F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\src\graphic\shape\Rose.ts132894702470150000 0
 85F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\visualMapPiecewise.js132894702470210000 0
-65F:\2021Fang\StudyCode\cv-2.0\node_modules\htmlnano\docs\README.md132894703022970000 0
+62F:\2021Fang\StudyCode\cv-2.0\node_modules\posthtml-parser\dist132894710424030579 1
 60F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\index.d.ts132894702470150000 0
 64F:\2021Fang\StudyCode\cv-2.0\node_modules\xxhash-wasm\types.d.ts132894703002840000 0
+65F:\2021Fang\StudyCode\cv-2.0\node_modules\htmlnano\docs\README.md132894703022970000 0
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\chart\graph\edgeVisual.d.ts132894702470210000 0
-62F:\2021Fang\StudyCode\cv-2.0\node_modules\posthtml-parser\dist132894710424030579 1
 89F:\2021Fang\StudyCode\cv-2.0\node_modules\postcss-ordered-values\src\lib\joinGridValue.js132894703069230000 0
 69F:\2021Fang\StudyCode\cv-2.0\node_modules\css-what\lib\stringify.d.ts132790098568450000 0
 90F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\unhandledrejection.js132894703008590000 0
@@ -1108,6 +1101,7 @@
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\coord\geo\parseGeoJson.d.ts132894702470210000 0
 72F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\graphic\TSpan.d.ts132894702470150000 0
 59F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\core.d.ts132894702470210000 0
+53F:\2021Fang\StudyCode\cv-2.0\dist\WeChat.67113d30.jpg132899057425177128 0
 83F:\2021Fang\StudyCode\cv-2.0\node_modules\@babel\highlight\node_modules\ansi-styles132894710366277424 1
 65F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\src\core\dom.ts132894702470150000 0
 82F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb132894710442238161 1
@@ -1209,6 +1203,14 @@
 93F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\chart\line\lineAnimationDiff.d.ts132894702470210000 0
 76F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\i18n\langEN.d.ts132894702470210000 0
 60F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\canvas132894711071139856 1
+64F:\2021Fang\StudyCode\cv-2.0\node_modules\color-convert\index.js132791020685260000 0
+64F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\Handler.js132894702470150000 0
+67F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\utils\src\blob.js132894702968710000 0
+80F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\coord\single\SingleAxis.js132894702470210000 0
+92F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers132894710437777155 1
+85F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\web-animation.js132894703008590000 0
+73F:\2021Fang\StudyCode\cv-2.0\node_modules\weak-lru-cache\rollup.config.js132894703042150000 0
+65F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\config.d.ts132894702470150000 0
 78F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\core\src\summarizeRequest.js132894702964290000 0
 61F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\lib\contain132894711071339322 1
 84F:\2021Fang\StudyCode\cv-2.0\node_modules\utility-types\dist\aliases-and-guards.d.ts132894703009260000 0
@@ -1731,6 +1733,7 @@
 81F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\core\lib\ParcelConfig.schema.js132894702964290000 0
 74F:\2021Fang\StudyCode\cv-2.0\node_modules\zrender\build\transformImport.js132894702470150000 0
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\types\src\coord\CoordinateSystem.d.ts132894702470210000 0
+112F:\2021Fang\StudyCode\cv-2.0\.idea\shelf\Uncommitted_changes_before_Update_at_2022_2_20_23_43_[Changes]\data.mdb132898452909320000 0
 85F:\2021Fang\StudyCode\cv-2.0\node_modules\postcss-normalize-repeat-style\src\index.js132894703063460000 0
 76F:\2021Fang\StudyCode\cv-2.0\node_modules\type-fest\ts41\delimiter-case.d.ts132848098508500000 0
 80F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\progress.js132894703008590000 0
@@ -2518,6 +2521,7 @@
 67F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\fs-search\LICENSE132894702985380000 0
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\postcss-selector-parser\dist\selectors\tag.js132894703074500000 0
 81F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\extension-src\bmap\BMapModel.ts132894702470210000 0
+40F:\2021Fang\StudyCode\cv-2.0\.idea\shelf132898457095759936 1
 93F:\2021Fang\StudyCode\cv-2.0\node_modules\postcss-selector-parser\dist\selectors\universal.js132894703074500000 0
 101F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c132894703001620000 0
 91F:\2021Fang\StudyCode\cv-2.0\node_modules\@swc\helpers\src\_define_enumerable_properties.js132894703041310000 0
@@ -3209,6 +3213,8 @@
 64F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\chart\tree132894711073904413 1
 58F:\2021Fang\StudyCode\cv-2.0\node_modules\mdn-data\LICENSE132762753506490000 0
 60F:\2021Fang\StudyCode\cv-2.0\node_modules\mdn-data\README.md132762753506490000 0
+64F:\2021Fang\StudyCode\cv-2.0\node_modules\mdn-data\l10n\css.json132762753506490000 0
+85F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\brush\preprocessor.js132894702470210000 0
 68F:\2021Fang\StudyCode\cv-2.0\node_modules\mdn-data\css\at-rules.json132762753506490000 0
 91F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\component\dataZoom\InsideZoomModel.js132894702470210000 0
 84F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\node_modules\.bin\node-gyp-build-test132894711090824761 0
@@ -3262,6 +3268,7 @@
 58F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\src\txn.cpp132894703001620000 0
 78F:\2021Fang\StudyCode\cv-2.0\node_modules\css-tree\lib\syntax\config\parser.js132762753411640000 0
 75F:\2021Fang\StudyCode\cv-2.0\node_modules\echarts\lib\util\shape\sausage.js132894702470210000 0
+52F:\2021Fang\StudyCode\cv-2.0\dist\index.2cdaf7bc.css132899057659807956 0
 69F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\prebuilds\darwin-arm64132894710436495637 1
 68F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\prebuilds\linux-arm64132894710436869953 1
 62F:\2021Fang\StudyCode\cv-2.0\node_modules\csso\lib\compress.js132762753395480000 0
@@ -3312,8 +3319,6 @@
 78F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lz4\lib\.gitignore132894703001620000 0
 77F:\2021Fang\StudyCode\cv-2.0\node_modules\@babel\highlight\node_modules\chalk132894710369578292 1
 84F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in132894703001620000 0
-70F:\2021Fang\StudyCode\cv-2.0\node_modules\.bin\node-gyp-build-test.cmd132894711094621063 0
-73F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lz4\lib\lz4.c132894703001620000 0
 73F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lz4\lib\lz4.h132894703001620000 0
 78F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c132894703001620000 0
 77F:\2021Fang\StudyCode\cv-2.0\node_modules\lmdb\dependencies\lz4\lib\README.md132894703001620000 0
@@ -5373,6 +5378,7 @@
 85F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\css-selection.js132894703008590000 0
 82F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\css-sticky.js132894703008590000 0
 88F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\css-supports-api.js132894703008590000 0
+56F:\2021Fang\StudyCode\cv-2.0\dist\index.2cdaf7bc.css.map132899057659807956 0
 91F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\css-text-align-last.js132894703008590000 0
 88F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\css-text-justify.js132894703008590000 0
 88F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\css-text-spacing.js132894703008590000 0
@@ -5440,6 +5446,7 @@
 70F:\2021Fang\StudyCode\cv-2.0\node_modules\@swc\helpers\lib\_type_of.js132894703041310000 0
 76F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\hevc.js132894703008590000 0
 92F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\high-resolution-time.js132894703008590000 0
+117F:\2021Fang\StudyCode\cv-2.0\.idea\shelf\Uncommitted_changes_before_Update_at_2022_2_20_23_43_[Changes]\shelved.patch132898453957921305 0
 90F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\html-media-capture.js132894703008590000 0
 86F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\transformer-postcss\lib\constants.js132894702999720000 0
 87F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\media-fragments.js132894703008590000 0
@@ -5520,6 +5527,7 @@
 75F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\ogv.js132894703008590000 0
 120F:\2021Fang\StudyCode\cv-2.0\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a132894710443102928 1
 85F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\online-status.js132894703008590000 0
+120F:\2021Fang\StudyCode\cv-2.0\.idea\shelf\Uncommitted_changes_before_Update_at_2022_2_20_23_43_[Changes]\db7a81a301f397fd132894824284380000 0
 76F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\opus.js132894703008590000 0
 90F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\orientation-sensor.js132894703008590000 0
 85F:\2021Fang\StudyCode\cv-2.0\node_modules\caniuse-lite\data\features\pad-start-end.js132894703008590000 0
@@ -6474,10 +6482,14 @@
 53F:\2021Fang\StudyCode\cv-2.0\node_modules\.bin\semver132894711094750714 0
 57F:\2021Fang\StudyCode\cv-2.0\node_modules\.bin\semver.cmd132894711094740739 0
 55F:\2021Fang\StudyCode\cv-2.0\node_modules\.bin\svgo.cmd132894711094840475 0
+53F:\2021Fang\StudyCode\cv-2.0\dist\avatar.b3ec4b3d.jpg132899057425207200 0
+44F:\2021Fang\StudyCode\cv-2.0\dist\index.html132899058819855631 0
 45F:\2021Fang\StudyCode\cv-2.0\.idea\.gitignore132816089953640641 0
 45F:\2021Fang\StudyCode\cv-2.0\.idea\cv-2.0.iml132894728573103219 0
-53F:\2021Fang\StudyCode\cv-2.0\.idea\inspectionProfiles132894728352295279 1
-56F:\2021Fang\StudyCode\cv-2.0\.idea\jsLibraryMappings.xml132894728573571848 0
+53F:\2021Fang\StudyCode\cv-2.0\.idea\inspectionProfiles132899023188038062 1
 42F:\2021Fang\StudyCode\cv-2.0\.idea\vcs.xml132816093174021606 0
-48F:\2021Fang\StudyCode\cv-2.0\.idea\workspace.xml132894728573259450 0
-73F:\2021Fang\StudyCode\cv-2.0\.idea\inspectionProfiles\Project_Default.xml132894728352139134 0
+48F:\2021Fang\StudyCode\cv-2.0\.idea\workspace.xml132899058812521973 0
+103F:\2021Fang\StudyCode\cv-2.0\.idea\shelf\Uncommitted_changes_before_Update_at_2022_2_20_23_43_[Changes]132898453957831500 1
+107F:\2021Fang\StudyCode\cv-2.0\.idea\shelf\Uncommitted_changes_before_Update_at_2022_2_20_23_43__Changes_.xml132898457095749913 0
+120F:\2021Fang\StudyCode\cv-2.0\.idea\shelf\Uncommitted_changes_before_Update_at_2022_2_20_23_43_[Changes]\97ff431147d32066132898448427530000 0
+73F:\2021Fang\StudyCode\cv-2.0\.idea\inspectionProfiles\Project_Default.xml132899023188018111 0
