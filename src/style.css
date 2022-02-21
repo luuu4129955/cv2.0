@@ -13,6 +13,7 @@
 .skill-info li,
 .edu-info li {
     display: inline;
+    line-height: 2;
 }
 li {
     list-style: none;
@@ -44,6 +45,7 @@ body {
     font-weight: 600;
     font-family: "STKaiti";
 }
+
 .content h2,
 h3 {
     margin-top: 10px;
@@ -66,7 +68,8 @@ h1 {
     position: relative;
     background-color: #5c7bd9;
     color: #ffffff;
-    padding: 10px 120px;
+    padding: 28px 120px;
+    height: 284px;
 }
 .icon {
     width: 1em;
@@ -79,7 +82,7 @@ h1 {
     width: 84px;
     height: 84px;
     position: absolute;
-    bottom: 20px;
+    bottom: 68px;
     right: 120px;
 }
 .header-job img {
@@ -170,4 +173,21 @@ a {
     .qrcode{right: 36px;}
     .page .content{padding: 10px 36px}
     .company{flex-wrap: wrap}
+}
+
+@media print{
+.page1{
+    padding: 48px 36px;
+}
+    .content-skills .skills-description li{
+        line-height: 2.5;
+    }
+    .page2{
+        page-break-before: always;
+        margin-top: 98px;
+    }
+    .page3{
+        margin-top: 32px;
+        page-break-before: always;
+    }
 }
